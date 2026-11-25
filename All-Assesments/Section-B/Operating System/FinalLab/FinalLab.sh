@@ -1,3 +1,6 @@
+# Code was given for the second batch and error 
+# dhondh kr usei executable krna tha login sb whi rkhni thi 
+
 #!/bin/bash
 
 if [ $# -eq 0 ]; then
